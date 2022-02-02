@@ -1,7 +1,7 @@
 # Teamwork SIG
 ## Sessions
 ### Every 4 weeks on Thursday (currently these are weeks 2, 6, 10...) between 14:00 and 15:00 on Teams.
-The topic of the session is mailed around on the Thursday before the session.
+The topic of the session is mailed around on the Monday before the session.
 
 ### Upcoming sessions:
 See the schedule at: https://github.com/NLeSC/teamwork-sig/projects/1. Please add ideas for new session topics there!
